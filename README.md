@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I am a W0rthlessS0ul, and that's all I can tell about myself.
+Hi 👋, I am W0rthlessS0ul, and you can learn more about me below.
 
 
 # 💻 Tech Stack:

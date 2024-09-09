@@ -10,5 +10,7 @@ Hi 👋, I am a W0rthlessS0ul, and that's all I can tell about myself.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FW0rthlessS0ul&countColor=%232ccce4&style=flat-square)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FW0rthlessS0ul&countColor=%23ff4f81&style=for-the-badge)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=W0rthlessS0ul&theme=radical&no-frame=false&no-bg=true&margin-w=4)

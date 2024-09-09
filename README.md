@@ -8,10 +8,11 @@ Hi 👋, I am W0rthlessS0ul, and you can learn more about me below.
 ![](https://github-readme-stats.vercel.app/api?username=W0rthlessS0ul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=W0rthlessS0ul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FW0rthlessS0ul&countColor=%232ccce4&style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FW0rthlessS0ul&countColor=%235376A5&style=flat-square)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=W0rthlessS0ul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=W0rthlessS0ul&theme=radical&no-frame=false&no-bg=true&margin-w=4&bgColor=%235376A5)
 
 ## 📬 Contacts
-![alt текст](https://img.shields.io/badge/Gmail-w0rthlesss0ul%40gmail.com-blue)
+![Gmail](https://img.shields.io/badge/Gmail-w0rthlesss00ul%40gmail.com-%235376A5)
+

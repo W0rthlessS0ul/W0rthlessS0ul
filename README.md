@@ -14,4 +14,4 @@ Hi 👋, I am a W0rthlessS0ul, and that's all I can tell about myself.
 ![](https://github-profile-trophy.vercel.app/?username=W0rthlessS0ul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-![alt текст](https://img.shields.io/badge/Gmail-w0rthlesss0ul%40gmail.com-red)
+![alt текст](https://img.shields.io/badge/Gmail-w0rthlesss0ul%40gmail.com-blue)
